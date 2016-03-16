@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://www.domain.com/domain.ipa(这里是IPA文件的路径， http路径就可以)</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.domain.app12(这个名字在xcode 中查看)</string>
+<key>bundle-version</key>
+<string>app的版本，在xcode中看</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>这里是APP的名称</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
